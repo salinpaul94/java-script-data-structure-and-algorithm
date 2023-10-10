@@ -83,4 +83,3 @@ lotrChar2.name = "Gandalf";
 console.log(lotrChar2.name);
 
 console.log(Object.getOwnPropertySymbols(lotrChar2));
-d
